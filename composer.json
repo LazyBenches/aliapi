@@ -1,11 +1,14 @@
 {
     "name": "lazybench/aliapi",
     "description": "aliApi appKey",
+    "license": "MIT",
     "authors": [
         {
             "name": "LazyBench",
             "email": "jwy226@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+      "php": ">=7.0.0"
+    }
 }
